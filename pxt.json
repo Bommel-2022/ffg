@@ -1,0 +1,21 @@
+{
+    "name": "ffg",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "callibot": "github:mkleinsb/pxt-callibot#v1.0.1",
+        "devices": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "calliopemini"
+    ],
+    "preferredEditor": "blocksprj"
+}
